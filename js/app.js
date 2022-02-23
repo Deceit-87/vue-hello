@@ -1,8 +1,12 @@
 const app = new Vue({
 
-    data : #app {
-
-
-
+    el :'#app',
+    data:{
+        message :'Imagination means nothing,without doing.',
+    
     }
+
+
+
+    
 });
